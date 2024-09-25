@@ -1,3 +1,6 @@
 fun main() {
-    println("Today is sunny!")
+    println("I'm")
+    println("learning")
+    println("Kotlin!")
+    println("")
 }
