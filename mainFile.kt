@@ -1,8 +1,7 @@
 fun main() {
-    var count = 10
-    println("You have $count unread messages.")
-    count++
-    println("You have $count unread messages.")
-    count--
-    println("You have $count unread messages.")
+    val trip1 = 3.20
+    val trip2 = 4.10
+    val trip3 = 1.72
+    val totalTripLength = trip1 + trip2 + trip3
+    println("$totalTripLength miles left to destination")
 }
