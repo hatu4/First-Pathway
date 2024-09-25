@@ -1,3 +1,5 @@
 fun main() {
-    println("There is a chance of snow")
+    println("Cloudy")
+    println("Partly Cloudy")
+    println("Windy")
 }
