@@ -1,5 +1,3 @@
 fun main() {
-    println("Cloudy")
-    println("Partly Cloudy")
-    println("Windy")
+    println("How's the weather today?")
 }
