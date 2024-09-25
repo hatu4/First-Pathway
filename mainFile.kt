@@ -1,13 +1,8 @@
-/*
- * This program displays the number of messages
- * in the user's inbox.
- */
 fun main() {
-    // Create a variable for the number of unread messages.
-    var count = 10
-    println("You have $count unread messages.")
+    birthdayGreeting()
+}
 
-    // Decrease the number of messages by 1.
-    count--
-    println("You have $count unread messages.")
+fun birthdayGreeting() {
+    println("Happy Birthday, Rover!")
+    println("You are now 5 years old!")
 }
