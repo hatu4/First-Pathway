@@ -1,3 +1,5 @@
 fun main() {
-    println("How's the weather today?")
+    val unreadCount = 5
+    val readCount = 10
+    println("You have ${unreadCount + readCount} total messages in your inbox.")
 }
